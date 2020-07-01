@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  character: MyString
+  sea: MyString
+  island: MyString
+  location: MyString
+  quote: MyString
+  akuma_no_mi: MyString
+
+two:
+  character: MyString
+  sea: MyString
+  island: MyString
+  location: MyString
+  quote: MyString
+  akuma_no_mi: MyString
